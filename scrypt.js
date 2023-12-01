@@ -105,3 +105,15 @@ new Swiper('.ingredients-slider', {
     initialSlide: 1,
 
 });
+
+// Footer Menu
+
+// const menuHeader = document.querySelectorAll('.footer-block__header');
+// const menuContent = document.querySelectorAll('.footer-block__subcontent');
+
+// if (menuHeader) {
+//     menuHeader.addEventListener("click", function (e) {
+//         menuHeader.classList.toggle('_open');
+//         menuContent.classList.toggle('_open');
+//     });
+// }
